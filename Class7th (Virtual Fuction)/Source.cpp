@@ -1,7 +1,7 @@
 ﻿#include <iostream>
-#include "Vulture.h"
-#include "SiegeTank.h"
-#include "Goliath.h"
+#include "../Program/Vulture.h"
+#include "../Program/SiegeTank.h"
+#include "../Program/Goliath.h"
 
 using namespace std;
 
