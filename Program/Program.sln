@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class8th (Abstract)", "..\C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class9th (Operator Overloading)", "..\Class9th (Operator Overloading)\Class9th (Operator Overloading).vcxproj", "{3E1E2C8E-7E6C-4ED0-B0B1-855C72F76CE4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th (Template)", "..\Class10th (Template)\Class10th (Template).vcxproj", "{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{3E1E2C8E-7E6C-4ED0-B0B1-855C72F76CE4}.Release|x64.Build.0 = Release|x64
 		{3E1E2C8E-7E6C-4ED0-B0B1-855C72F76CE4}.Release|x86.ActiveCfg = Release|Win32
 		{3E1E2C8E-7E6C-4ED0-B0B1-855C72F76CE4}.Release|x86.Build.0 = Release|Win32
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Debug|x64.ActiveCfg = Debug|x64
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Debug|x64.Build.0 = Debug|x64
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Debug|x86.Build.0 = Debug|Win32
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Release|x64.ActiveCfg = Release|x64
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Release|x64.Build.0 = Release|x64
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Release|x86.ActiveCfg = Release|Win32
+		{8A5BE985-0CC4-4FB7-A798-F6CD50A4CF74}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

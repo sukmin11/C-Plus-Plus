@@ -1,10 +1,18 @@
 #pragma once
+#include <iostream>
+
+using namespace std;
+
 class Zerg
 {
 protected:
-	float health;
-	float initializeHealth;
+	int health;
+	int initializeHealth;
 public:
-	virtual void Recovery() = 0;
+	virtual void Recovery();
+
+	void OnDamage(int damage);
+
+	int Health();
 };
 
