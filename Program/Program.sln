@@ -31,6 +31,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class12th (Thread)", "..\Cl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class13th (Linear Container)", "..\Class13th (Linear Container)\Class13th (Linear Container).vcxproj", "{1222A3F1-F87E-4139-8253-51DD58C0DD80}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class14th (Container Adapter)", "..\Class14th (Container Adapter)\Class14th (Container Adapter).vcxproj", "{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class15th (Associated Container)", "..\Class15th (Associated Container)\Class15th (Associated Container).vcxproj", "{DA213AAC-7292-487F-9833-7825755F1AC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +155,22 @@ Global
 		{1222A3F1-F87E-4139-8253-51DD58C0DD80}.Release|x64.Build.0 = Release|x64
 		{1222A3F1-F87E-4139-8253-51DD58C0DD80}.Release|x86.ActiveCfg = Release|Win32
 		{1222A3F1-F87E-4139-8253-51DD58C0DD80}.Release|x86.Build.0 = Release|Win32
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Debug|x64.ActiveCfg = Debug|x64
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Debug|x64.Build.0 = Debug|x64
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Debug|x86.Build.0 = Debug|Win32
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Release|x64.ActiveCfg = Release|x64
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Release|x64.Build.0 = Release|x64
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Release|x86.ActiveCfg = Release|Win32
+		{0449D410-B84C-4EDA-973F-A1BA3E57ECF4}.Release|x86.Build.0 = Release|Win32
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Debug|x64.ActiveCfg = Debug|x64
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Debug|x64.Build.0 = Debug|x64
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Debug|x86.Build.0 = Debug|Win32
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Release|x64.ActiveCfg = Release|x64
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Release|x64.Build.0 = Release|x64
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Release|x86.ActiveCfg = Release|Win32
+		{DA213AAC-7292-487F-9833-7825755F1AC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
